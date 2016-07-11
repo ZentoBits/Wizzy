@@ -41,7 +41,7 @@ BODY
 
 input {
 	width: 300px;
-	margin: 20px auto;
+	margin: 50px auto;
 	display: block;
 	font-size: 20px;
 	font-family: helvetica;
@@ -65,7 +65,7 @@ img {
 #output {
 	width: 40%;
 	position: absolute;
-	bottom: 10px;
+	bottom: 220px;
 	left: 700px;
 	font-family: helvetica;
 	color: #dbdbdb;
